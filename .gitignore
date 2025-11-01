@@ -1,0 +1,32 @@
+# 🔹 Compilação e executáveis
+*.exe
+*.out
+*.o
+*.obj
+
+# 🔹 Arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+*.cache
+
+# 🔹 Arquivos do Dev-C++ e Code::Blocks
+*.layout
+*.depend
+*.dev
+*.cbp
+
+# 🔹 Diretórios comuns de build
+/build/
+/bin/
+/debug/
+/release/
+
+# 🔹 Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# 🔹 Backup e autosave
+*~
+*.swp
+*.swo
